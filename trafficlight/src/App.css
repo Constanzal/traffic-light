@@ -20,10 +20,15 @@
 }
 .roja {
   margin-bottom: 10px;
+  background: red;
 }
 .amarilla {
   margin-bottom: 10px;
+  background: yellow;
+}
+.verde {
+  background: green;
 }
 .brillo {
-  box-shadow: 0 0 100px 50px rgb(79, 236, 113);
+  box-shadow: 0 0 100px 50px rgb(231, 238, 137);
 }
