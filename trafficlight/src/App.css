@@ -1,0 +1,29 @@
+.palito {
+  background: black;
+  width: 20px;
+  height: 100px;
+  margin: auto;
+}
+.cuerpo {
+  background: black;
+  width: 150px;
+  height: 400px;
+  margin: auto;
+  border-radius: 25px;
+  padding-top: 18px;
+}
+.luz {
+  width: 120px;
+  height: 120px;
+  border-radius: 70px;
+  margin-left: 16px;
+}
+.roja {
+  margin-bottom: 10px;
+}
+.amarilla {
+  margin-bottom: 10px;
+}
+.brillo {
+  box-shadow: 0 0 100px 50px rgb(79, 236, 113);
+}
